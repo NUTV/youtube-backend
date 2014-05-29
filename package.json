@@ -1,0 +1,19 @@
+{
+  "name": "youtube-backend",
+  "version": "0.0.1",
+  "description": "Provides a REST api on top of the youtube v3 api. Acts as a facade providing more appropriate apis for NUTV apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/NUTV/youtube-backend.git"
+  },
+  "author": "Richard Walker <digitalsadhu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NUTV/youtube-backend/issues"
+  },
+  "homepage": "https://github.com/NUTV/youtube-backend"
+}
