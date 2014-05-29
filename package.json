@@ -15,5 +15,19 @@
   "bugs": {
     "url": "https://github.com/NUTV/youtube-backend/issues"
   },
-  "homepage": "https://github.com/NUTV/youtube-backend"
+  "homepage": "https://github.com/NUTV/youtube-backend",
+  "devDependencies": {
+    "beefy": "~0.5.0",
+    "browserify": "~2.35.4",
+    "chai": "^1.9.1",
+    "mocha": "^1.18.2",
+    "nodemon": "^1.0.19",
+    "jshint": "~2.3.0"
+  },
+  "dependencies": {
+    "envoodoo": "^1.2.3",
+    "express": "^4.1.1",
+    "iced-coffee-script": "^1.7.1-b",
+    "youtube-get": "~0.0.2"
+  }
 }
